@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.manu-container{
+    background-color: rgb(245, 244, 243);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 60px;
+    justify-content: space-around;
+
+
+}
+
+.menu{
+    display: flex;
+}
+
+.item{
+    margin-right: 10px;
+    padding-right: 7px;
+    font-size:18px;
+    
+}
+
+.item:hover{
+ color: rgb(255, 131, 15);
+ cursor: pointer;
+ 
+}
+
+.logop{
+    width: 170px;
+    margin-right: 600px;
+    
+}
+
+.log{
+    display: flex;
+    list-style: none;
+    color: rgb(248, 138, 48);
+    
+    
+}
+
+.log:hover{
+    cursor: pointer;
+    color: rgb(7, 7, 7);
+    border: none; 
+}
+.ban-img{
+    width: 600px;
+    
+   
+}
+.ban-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+}
+
+.titel{
+    font-size: 50px;
+    font-weight: bold;
+}
+span1{
+    color: rgb(231, 3, 3);
+}
+.description{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.btn{
+    padding: 10px 40px;
+    background-color: rgb(255, 110, 43);
+    color: #fff;
+    font-size: medium;
+
+}
+
+.btn:hover{
+    cursor: pointer;
+    color: rgb(7, 7, 7);
+    box-shadow: rgb(255, 38, 38);
+    border: none;
+
+}
+
+.about-container{
+    background-color: rgb(148, 146, 146);
+    padding: 20px;
+    display: inline-block;
+    align-items: center;
+    list-style: none;
+    font-size: 60px;
+    justify-content: space-around;
+    
+
+}
+
+
+.ttitel{
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+
+
+    
+}
+
+.about-photo{
+    
+   width: 150px; 
+   padding-left: 10%;
+   
+}
+
+h2{
+    margin-top: 2px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.social{
+    display: flex;
+    margin-left: 3%;
+    justify-content: space-around;
+    position: relative;
+    
+}
+.ss{
+    display: flex;
+    list-style: none;
+    color: rgb(248, 138, 48);
+    justify-content: space-between;
+    gap: 40px;
+    size: smaller;
+    
+    
+}
+.ss:hover{
+    cursor: pointer;
+    color: rgb(7, 7, 7);
+    
+
+}
+
+.cartsec{
+    background-color: rgb(27, 26, 26);
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    text-align: center;
+    align-items: center;
+    border: 40px;
+
+    margin: 20px;
+    padding: 10px;
+    padding-top: 7px;
+
+
+}
+.cart{
+   width: 250px;
+   height: 300px;
+   align-items: center;
+   
+}
+
+h4{
+    text-align: center;
+    font-size: larger;
+    padding: 4%;color: #fff;
+
+}
+
+.btnq{
+    padding: 10px 30px;
+    background-color: rgb(255, 110, 43);
+    color: #fff;
+    font-size: medium;
+
+}
+
+.btnq:hover{
+    cursor: pointer;
+    color: rgb(7, 7, 7);
+    box-shadow: rgb(255, 38, 38);
+    border: none;
+    
+    
+
+}
+.dan-img{
+    width: 400px;
+    
+    
+   
+}
+.dan-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+}
+
+.titel{
+    font-size: 50px;
+    font-weight: bold;
+}
+span1{
+    color: rgb(231, 3, 3);
+}
+.description{
+    margin-top: 4px;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
