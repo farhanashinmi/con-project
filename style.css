@@ -222,3 +222,11 @@ span1{
     margin-bottom: 15px;
     font-size: 18px;
 }
+
+footer{
+    text-align: center;
+}
+
+span{
+    color: coral;
+}
